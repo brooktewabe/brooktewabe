@@ -30,8 +30,3 @@
 &nbsp;&nbsp;
 [Telegram<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/Brook_ty)
 
-<br />
-<br />
-
----
-
