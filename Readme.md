@@ -5,8 +5,8 @@ I'm a backend developer with a full-stack experience. I have experience with Nod
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTelegram_%2528software%2529&psig=AOvVaw3EemuyHhOApmuUUW4h1kLm&ust=1704806273018000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCgsrvwzYMDFQAAAAAdAAAAABAD)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTelegram_%2528software%2529&psig=AOvVaw3EemuyHhOApmuUUW4h1kLm&ust=1704806273018000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCgsrvwzYMDFQAAAAAdAAAAABAD)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
