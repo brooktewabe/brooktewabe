@@ -1,6 +1,6 @@
-# Hi there, I'm Brook T. 👋 
+# Hey there, I'm Brook T. 👋 
 
-I'm a backend developer with a full-stack experience. I have experience with Node.js, .NET core, and Laravel APIs.
+## I'm a backend developer with a full-stack experience. I have experience with Node.js, .NET core, and Laravel APIs.
 
 
 ### Languages and Tools:
