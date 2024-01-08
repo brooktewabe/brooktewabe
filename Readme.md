@@ -31,3 +31,5 @@
 [Telegram<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/Brook_ty)
 
 [Email<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/220px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" />](<a href = "mailto: brooktewabe00@gmail.com"></a>)
+
+Email<a href = "mailto: brooktewabe00@gmail.com" ><img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/220px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" /></a>
