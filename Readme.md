@@ -19,7 +19,8 @@ I'm a backend developer with a full-stack experience. I have experience with Nod
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
-
+<br />
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brooktewabe&hide_progress=true)
 
 ### Connect with me:
