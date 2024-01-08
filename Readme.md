@@ -2,12 +2,6 @@
 
 I'm a backend developer with a full-stack experience. I have experience with Node.js, .NET core, and Laravel APIs.
 
-### Connect with me:
-
-&nbsp;&nbsp;
-[Telegram<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/Brook_ty)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brooktewabe&hide_progress=true)
 
 ### Languages and Tools:
 
@@ -26,6 +20,12 @@ I'm a backend developer with a full-stack experience. I have experience with Nod
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brooktewabe&hide_progress=true)
+
+### Connect with me:
+
+&nbsp;&nbsp;
+[Telegram<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/Brook_ty)
 
 <br />
 <br />
