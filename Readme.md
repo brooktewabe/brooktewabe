@@ -1,6 +1,6 @@
 # Hey there, I'm Brook T. 👋 
 
-### I'm a backend developer with a full-stack experience. I have experience with React, Vue js, Node.js, .NET core, and Laravel APIs.
+### I'm a backend developer with a full-stack experience. I have experience with React, Vue js, Node.js, .NET core, Django and Laravel APIs.
 
 
 ### Languages and Tools:
