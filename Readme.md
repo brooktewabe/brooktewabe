@@ -1,6 +1,6 @@
 # Hey there, I'm Brook T. 👋 
 
-### I'm a full-stack developer with experience in React, Vue js, Node.js/Nest.js, .NET core, Django, and Laravel APIs.
+### I'm a full-stack developer with experience in React, Vue js, Node.js/Nest.js, .NET core, and Laravel APIs.
 
 
 ### Languages and Tools:
