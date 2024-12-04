@@ -1,7 +1,15 @@
 <h1 align="center"> Hey there, I'm Brook T. 👋 </h1>
 
 <h3 align="center">An experienced Full-stack developer</h3> 
-I'm a full-stack developer with experience in React, Vue js, Node.js/Nest.js, .NET core, and Laravel APIs.
+<h2>⚡ Technologies</h2>
+Talk to me about:<br/>
+- Front-end development: **React, Vue, Tailwind**.<br/>
+- Backend development: **Node/Nest, .NET core, Laravel**.<br/>
+- DevOps: Creating scalable cloud architecture using **AWS Cloud**.<br/>
+- Mobile application development: **React Native**.<br/>
+- Designing **Relational Database Management Systems**.<br/>
+- Robust full-stack system design implementation.<br/>
+- Solving Data structure and algorithm questions in **Java and Python**.<br/>
 
 ### Languages and Tools:
 
@@ -22,6 +30,7 @@ I'm a full-stack developer with experience in React, Vue js, Node.js/Nest.js, .N
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-Logo-2017-present.png" style="padding-right:10px;" />
 <img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/terraform/terraform-original-wordmark.svg" style="padding-right:10px;" />
 
 <br />
 <br />
