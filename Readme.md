@@ -1,7 +1,7 @@
-# Hey there, I'm Brook T. 👋 
+<h1 align="center"> Hey there, I'm Brook T. 👋 </h1>
 
-### I'm a full-stack developer with experience in React, Vue js, Node.js/Nest.js, .NET core, and Laravel APIs.
-
+<h3 align="center">An experienced Full-stack developer</h3> 
+I'm a full-stack developer with experience in React, Vue js, Node.js/Nest.js, .NET core, and Laravel APIs.
 
 ### Languages and Tools:
 
