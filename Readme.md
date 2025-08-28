@@ -2,7 +2,7 @@
 
 <h3 align="center">An experienced Full-stack developer</h3> 
 - Front-end development: <b>React, Vue, Tailwind.</b><br/>
-- Backend development: <b>NodeJS, Nest JS, Go</b><br/>
+- Backend development: <b>NodeJS, Nest JS, Go.</b><br/>
 - DevOps: Creating scalable cloud infrastructure using <b>CI/CD, Terraform(IaC), AWS</b> ...<br/>
 - Robust full-stack system design implementation.<br/>
 
