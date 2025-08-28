@@ -17,7 +17,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Nest.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
