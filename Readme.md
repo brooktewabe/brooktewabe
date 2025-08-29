@@ -4,7 +4,7 @@
 
 - Front-end development: <b>React, Tailwind.</b><br/>
 - Backend development: <b>Node.js, NestJS, Go.</b><br/>
-- DevOps: <b>AWS, Terraform (IaC), CI/CD<</b> ...<br/>
+- DevOps: <b>AWS, Terraform (IaC), CI/CD</b> ...<br/>
 - Passionate about designing robust, scalable full-stack systems.<br/>
 
 
