@@ -2,10 +2,10 @@
 
 🦊 GitLab by day, 🐙 GitHub by night (my favorite side hobby 🎨).
 
-- Front-end development: <b>React, Vue, Tailwind.</b><br/>
-- Backend development: <b>NodeJS, Nest JS, Go.</b><br/>
-- DevOps: Creating scalable cloud infrastructure using <b>CI/CD, Terraform(IaC), AWS</b> ...<br/>
-- Robust full-stack system design implementation.<br/>
+- Front-end development: <b>React, Tailwind.</b><br/>
+- Backend development: <b>Node.js, NestJS, Go.</b><br/>
+- DevOps: <b>AWS, Terraform (IaC), CI/CD<</b> ...<br/>
+- Passionate about designing robust, scalable full-stack systems.<br/>
 
 
 ### Languages and Tools:
