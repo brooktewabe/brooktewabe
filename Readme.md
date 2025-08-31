@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, I'm Brook T. 👋 </h1> <h3 align="center">Full-stack Engineer | Cloud & DevOps Enthusiast</h3>
 
-🦊 GitLab by day, 🐙 GitHub by night (my favorite side hobby 🎨).
+🦊 GitLab by day, 🐙 GitHub by night.
 
 - Front-end development: <b>React, Next.js.</b><br/>
 - Backend development: <b>Node.js, NestJS, Go.</b><br/>
