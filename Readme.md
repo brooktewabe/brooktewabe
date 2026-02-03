@@ -32,7 +32,7 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brooktewabe&hide_progress=true)
+![Top Langs](https://github-readme-stats-eight-beta-71.vercel.app/api/top-langs/?username=brooktewabe&hide_progress=true)
 
 ### Connect with me:
 
@@ -40,4 +40,4 @@
 [Telegram<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/Brook_ty)
 
 
-<a href = "mailto: brooktewabe00@gmail.com" ><img align="left"  alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/220px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: brooktewabe00@gmail.com">Email</a>
+<a href = "mailto: brooktewabe00@gmail.com" ><img align="left"  alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: brooktewabe00@gmail.com">Email</a>
