@@ -37,7 +37,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[Telegram<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" style="padding-right:10px;" />](https://t.me/Brook_ty)
+[Telegram<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/960px-Telegram_2019_Logo.svg.png" style="padding-right:10px;" />](https://t.me/Brook_ty)
 
 
 <a href = "mailto: brooktewabe00@gmail.com" ><img align="left"  alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: brooktewabe00@gmail.com">Email</a>
