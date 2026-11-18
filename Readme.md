@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Brook T. 👋 </h1> <h3 align="center">Full-Stack Engineer | Cloud & DevOps Enthusiast</h3>
+<h1 align="center"> Hey there, I'm Brook T. 👋 </h1> <h3 align="center">Senior Backend Engineer (Node.js / TypeScript / Distributed Systems) | Cloud & DevOps Enthusiast</h3>
 
 🦊 GitLab by day, 🐙 GitHub by night.
 
