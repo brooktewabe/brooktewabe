@@ -2,7 +2,7 @@
 
 🦊 GitLab by day, 🐙 GitHub by night.
 
-- Backend development: <b>Node.js, NestJS, Pythin, Go.</b><br/>
+- Backend development: <b>Node.js, NestJS, Python, Go.</b><br/>
 - Front-end development: <b>React, Next.js.</b><br/>
 - DevOps: <b>AWS, Terraform (IaC), CI/CD</b>...<br/>
 - Passionate about designing robust, scalable systems.<br/>
