@@ -1,9 +1,10 @@
-<h1 align="center"> Hey there, I'm Brook T. 👋 </h1> <h3 align="center">Senior Backend Engineer (Node.js / TypeScript / Distributed Systems) | Cloud & DevOps Enthusiast</h3>
+<h1 align="center"> Hey there, I'm Brook T. 👋 </h1> <h3 align="center">Senior Backend Engineer (Node.js / TypeScript / Distributed Systems) | Cloud, DevOps & AI Enthusiast</h3>
 
 🦊 GitLab by day, 🐙 GitHub by night.
 
 - Backend development: <b>Node.js, NestJS, Python, Go.</b><br/>
 - Front-end development: <b>React, Next.js.</b><br/>
+- AI Engineering: RAG, LLMs, LangChain, LangGraph.</b><br/>
 - DevOps: <b>AWS, Terraform (IaC), CI/CD</b>...<br/>
 - Passionate about designing robust, scalable systems.<br/>
 
