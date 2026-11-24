@@ -4,7 +4,7 @@
 
 - Backend development: <b>Node.js, NestJS, Python, Go.</b><br/>
 - Front-end development: <b>React, Next.js.</b><br/>
-- AI Engineering: RAG, LLMs, LangChain, LangGraph.</b><br/>
+- AI Engineering: <b>RAG, LLMs, LangChain, LangGraph.</b><br/>
 - DevOps: <b>AWS, Terraform (IaC), CI/CD</b>...<br/>
 - Passionate about designing robust, scalable systems.<br/>
 
